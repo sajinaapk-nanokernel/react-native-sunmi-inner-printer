@@ -24,8 +24,9 @@
   ],
   "license": "MIT",
   "private": false,
-  "peerDependencies": {
-    "react": "^16.4.0",
-    "react-native": "^0.56.0"
-  }
+ "peerDependencies": {
+  "react": "^16.4.0 || ^17.0.0 || ^18.0.0",
+  "react-native": "^0.56.0 || ^0.68.0 || ^0.70.0 || ^0.71.0"
+}
+
 }
